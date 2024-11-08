@@ -1,1 +1,1 @@
-# 100-Days-of-Code---Replit
+# 100-days-of-code-Python
